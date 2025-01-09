@@ -19,7 +19,7 @@ onMounted(() => {
 })
 </script>
 
-<style>
+<style >
 button {
   font-weight: bold;
 }

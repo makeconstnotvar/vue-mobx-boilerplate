@@ -1,11 +1,11 @@
 <template>
   <div>
     <Header/>
-    {props.children}
   </div>
 </template>
 
 <script setup>
 
 
+import Header from "./Header.vue";
 </script>

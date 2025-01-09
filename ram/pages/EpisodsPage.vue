@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Characters</h1>
+    <h1>Episodes</h1>
   </div>
 </template>
 
